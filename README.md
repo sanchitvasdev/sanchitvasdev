@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanchitvasdev
 - 👀 I’m interested in Android app development, Web development, learning and experiencing new things.
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on android apps, designing websites, making apis,etc.
+- 💞️ I’m looking to collaborate on making android apps, designing websites, making apis,etc.
 - 📫 How to reach me sanchitvasdev@gmail.com
 
 <!---
